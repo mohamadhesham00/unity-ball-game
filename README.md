@@ -18,6 +18,6 @@ Contains black balls if the player crushes it loses
 <p align="center">
   <img  src="Screenshots/level2.gif" width="500px" >
 
-## Loes scenario :
+## Lose scenario :
 <p align="center">
   <img  src="Screenshots/losescenario.png" width="500px" >
